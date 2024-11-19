@@ -90,7 +90,7 @@ br {
 #buttons input {
 	width: 10em;
 }
-#payment, #Credit1 {
+#payment, #Credit1, #Bill1 {
 	width: auto;
 	margin-left: 3em;
 }
