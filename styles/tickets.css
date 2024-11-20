@@ -90,9 +90,17 @@ br {
 #buttons input {
 	width: 10em;
 }
-#payment, #Credit1, #Bill1 {
+#payment label{
+	float: none;
+}
+#payment input [type="radio"]{
 	width: auto;
 	margin-left: 3em;
+}
+#payment{
+	display: flex; 
+	align-items: center;
+	gap: 1em;
 }
 /* the styles for the navigation menu */
 #nav_menu ul {
