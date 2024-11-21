@@ -97,14 +97,6 @@ br {
 	width: auto;
 	margin-left: 3em;
 }
-#Bill1{
-	margin-left: 3em;
-	width: auto;
-}
-#Credit1{
-	margin-left: 3em;
-	width: auto;
-}
 #payment{
 	display: flex; 
 	align-items: center;
