@@ -93,10 +93,6 @@ br {
 #payment label{
 	float: none;
 }
-#payment input [type="radio"]{
-	width: auto;
-	margin-left: 3em;
-}
 #Bill1{
 	margin-left: 3em;
 	width: auto;
